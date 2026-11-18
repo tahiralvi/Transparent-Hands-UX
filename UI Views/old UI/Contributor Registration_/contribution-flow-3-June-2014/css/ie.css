@@ -1,0 +1,38 @@
+.ie-bold-font{
+
+	font-weight:bold;	
+	}
+.ie-normal-font{
+	font-family: 'Open Sans', 'sans-serif';
+	font-weight:normal;	
+	}
+.wizard-label-heading {
+	font-weight: bold;
+	font-family: 'Open Sans', 'sans-serif';
+}
+.header-nav{
+	font-family: 'Open Sans', 'sans-serif';
+}
+.page-heading
+{
+	font-family: 'Open Sans', 'sans-serif';
+}
+.wizard-inner-heading
+{
+	font-family: 'Open Sans', 'sans-serif';
+}
+.radiobutton-open-wizard-label {
+	margin-top: 15px;
+}
+.social-buzz-checkbox-text {
+	margin-top: 25px;
+}
+.field-checkbox {
+	margin-top: 13px;
+}
+img
+{
+border:0px;	
+}
+.email-address-label {
+font-weight:bold}
